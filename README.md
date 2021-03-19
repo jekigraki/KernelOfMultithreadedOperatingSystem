@@ -1,1 +1,1 @@
-# KernelOfMultithreadedOperatingSystem
+# KernelOfMultithreadedOperatingSyst
